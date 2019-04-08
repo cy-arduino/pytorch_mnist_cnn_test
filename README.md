@@ -4,6 +4,7 @@ reference to following examples:
 1. https://github.com/pytorch/examples/blob/master/mnist/main.py
 2. https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/401_CNN.py
 
+<pre>
 model:
 	CNN(
 	  (conv1): Sequential(
@@ -20,3 +21,4 @@ model:
 	  (hidden2): Linear(in_features=400, out_features=100, bias=True)
 	  (out): Linear(in_features=100, out_features=10, bias=True)
 	)
+</pre>
